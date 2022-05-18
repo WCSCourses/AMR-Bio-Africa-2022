@@ -57,17 +57,31 @@
 
 ## Course manual
 **Session 1: Intro to sequence data & QC**
+- [Introductory presentation]()
+- [Hands-on Exercises manual]()
 
 **Session 2: Genome assembly**
+- [Introductory presentation]()
+- [Hands-on Exercises manual]()
 
 **Session 3: Genome annotation**
+- [Introductory presentation]()
+- [Hands-on Exercises manual]()
 
 **Session 4: Bacteria subtyping**
+- [Introductory presentation]()
+- [Hands-on Exercises manual]()
 
 **Session 5: AMR detection**
+- [Introductory presentation]()
+- []()
 
 **Session 6: Phylogenetic analysis**
+- [Introductory presentation]()
+- [Hands-on Exercises manual]()
 
 **Session 7: Transmission analysis**
+- [Introductory presentation]()
+- [Hands-on Exercises manual]()
 
 **Session 8: SAGESA Network discussion**
