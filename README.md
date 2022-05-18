@@ -3,6 +3,46 @@
 
 # AMR Bioinformatics Africa Course (Virtual): 25 - 27 May 2022
 
-### Course Overview
+## Course Overview
 
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/amr-bioinformatics-africa-virtual-20220525/)
+
+## Instructors
+- [Annie Chan](), National Institute for Communicable Diseases, South Africa
+- [Arun Decano](), St. Andrews University, UK
+- [Erikson Odih](), University of Ibadan, Nigeria
+- [Narendar Kumar](), Wellcome Sanger Institute, UK
+- [Pimlapas Leekitcharoenphon (Shinny)](), National Food Institute, Denmark
+- [Stan Kwenda](), National Institute for Communicable Diseases, South Africa
+
+## Speakers
+- Plenary Lecture: [Rene Hendriksen](), National Food Institute, Denmark
+- Lecture 1: [Zamantungwa Khumalo](), ClinVet, South Africa
+- Lecture 2: [Joconiah Chirenda](), University of Zimbabwe, Zimbabwe
+- Lecture 3: [Sabelle Jallow](), National Institute for Communicable Diseases, South Africa
+- Lecture 4: [Lavania Joseph](), National Institute for Communicable Diseases, South Africa
+- Lecture 5: [Michelle Lowe](), National Institute for Communicable Diseases, South Africa
+
+## Timetable
+### Overview
+
+### Detailed timetable
+(link to follow)
+
+
+## Course manual
+**Session 1: Intro to sequence data & QC **
+
+**Session 2: Genome assembly**
+
+**Session 3: Genome annotation**
+
+**Session 4: Bacteria subtyping**
+
+**Session 5: AMR detection**
+
+**Session 6: Phylogenetic analysis**
+
+**Session 7: Transmission analysis**
+
+**Session 8: SAGESA Network discussion**
