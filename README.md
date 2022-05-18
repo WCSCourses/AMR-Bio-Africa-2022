@@ -25,17 +25,34 @@
 
 ## Timetable
 ### Overview
+Pre-workshop:
+  - Lecture 1: Samples to Sequencing lecture
+  - Introductions
+
+Wednesday 25 May 2022:
+  - Intro to sequence data & QC
+  - Lectures 2 & 3
+  - Genome assembly
+  - Genome annotation
+
+Thursday 26 May 2022:
+  - Plenary lecture
+  - Bacteria subtyping approaches
+  - Lecture 4
+  - AMR typing
+
+Friday 27 May 2022:
+  - Phylogenetic analysis
+  - Lecture 5
+  - Transmission analysis
+  - SAGESA network discussion
 
 ### Detailed timetable
 
-![plot](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/images/DetailedTimetable.PNG)
+<!--- ![plot](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/images/DetailedTimetable.PNG) --->
 
 
-<!--- [Download here](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/Timetable%20-%20AMR%20Bioinformatics%20Workshop.pdf) --->
-
-
-
-
+ [Download here](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/Timetable%20-%20AMR%20Bioinformatics%20Workshop.pdf) 
 
 
 ## Course manual
