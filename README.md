@@ -25,27 +25,27 @@
 
 ## Timetable
 ### Overview
-Pre-workshop:
+- Pre-workshop:
   - Lecture 1: Samples to Sequencing lecture
   - Introductions
 
-Wednesday 25 May 2022:
-  - Intro to sequence data & QC
+- Wednesday 25 May 2022:
+  - Session 1: Intro to sequence data & QC
   - Lectures 2 & 3
-  - Genome assembly
-  - Genome annotation
+  - Session 2: Genome assembly
+  - Session 3: Genome annotation
 
-Thursday 26 May 2022:
+- Thursday 26 May 2022:
   - Plenary lecture
-  - Bacteria subtyping approaches
+  - Session 4: Bacteria subtyping approaches
   - Lecture 4
-  - AMR typing
+  - Session 5: AMR typing
 
-Friday 27 May 2022:
-  - Phylogenetic analysis
+- Friday 27 May 2022:
+  - Session 6: Phylogenetic analysis
   - Lecture 5
-  - Transmission analysis
-  - SAGESA network discussion
+  - Session 7: Transmission analysis
+  - Session 8: SAGESA network discussion
 
 ### Detailed timetable
 
