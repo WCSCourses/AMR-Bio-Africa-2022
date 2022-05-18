@@ -31,7 +31,7 @@
 
 
 ## Course manual
-**Session 1: Intro to sequence data & QC **
+**Session 1: Intro to sequence data & QC**
 
 **Session 2: Genome assembly**
 
