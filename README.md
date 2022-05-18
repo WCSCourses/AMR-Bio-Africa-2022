@@ -27,8 +27,12 @@
 ### Overview
 
 ### Detailed timetable
-[Download here](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/Timetable%20-%20AMR%20Bioinformatics%20Workshop.pdf)
 [!plot]()
+
+
+[Download here](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/Timetable%20-%20AMR%20Bioinformatics%20Workshop.pdf)
+
+
 
 
 
