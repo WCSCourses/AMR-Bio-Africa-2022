@@ -26,7 +26,7 @@
 ## Timetable
 ### Overview
 - Pre-workshop:
-  - Lecture 1: Samples to Sequencing lecture
+  - Lecture 1: Samples to Sequencing
   - Introductions
 
 - Wednesday 25 May 2022:
