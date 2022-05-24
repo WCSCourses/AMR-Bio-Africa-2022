@@ -58,7 +58,7 @@
 ## Course manual
 **Introductory session**
 - [Welcome and overview](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/presentations/Genomic%20Surveillance%20Overview%20%20.pdf)
-- [Reading material]()
+- [Reading material](https://github.com/WCSCourses/AMR-Bio-Africa-2022/tree/main/presentations/reading_material)
 
 **Session 1: Intro to sequence data & QC**
 - [Introductory presentation]()
