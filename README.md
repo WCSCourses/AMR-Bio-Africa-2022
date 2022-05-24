@@ -58,7 +58,7 @@
 ## Course manual
 **Session 1: Intro to sequence data & QC**
 - [Introductory presentation]()
-- [Hands-on exercises manual]()
+- [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%201.pdf)
 
 **Session 2: Genome assembly**
 - [Introductory presentation]()
