@@ -66,26 +66,26 @@
 
 **Session 2: Genome assembly**
 - [Introductory presentation]()
-- [Hands-on exercises manual]()
+- [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%202.pdf)
 
 **Session 3: Genome annotation**
 - [Introductory presentation]()
-- [Hands-on exercises manual]()
+- [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%203.pdf)
 
 **Session 4: Bacteria subtyping**
 - [Introductory presentation]()
-- [Hands-on exercises manual]()
+- [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%204.pdf)
 
 **Session 5: AMR detection**
 - [Introductory presentation]()
-- [Hands-on exercises manual]()
+- [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%205.pdf)
 
 **Session 6: Phylogenetic analysis**
 - [Introductory presentation]()
-- [Hands-on exercises manual]()
+- [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Group%20project%202.pdf)
 
 **Session 7: Transmission analysis**
 - [Introductory presentation]()
-- [Hands-on exercises manual]()
+- [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%206.pdf)
 
 **Session 8: SAGESA Network discussion**
