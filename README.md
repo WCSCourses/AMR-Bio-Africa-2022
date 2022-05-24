@@ -58,7 +58,7 @@
 ## Course manual
 **Session 1: Intro to sequence data & QC**
 - [Introductory presentation]()
-- [Hands-on exercises manual]()
+- [Hands-on exercises manual](Practical 1.pdf)
 
 **Session 2: Genome assembly**
 - [Introductory presentation]()
