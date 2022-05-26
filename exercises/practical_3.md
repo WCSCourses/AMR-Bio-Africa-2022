@@ -103,13 +103,13 @@ If `--rawproduct` is not set, Prokka will clean gene product names (protein name
 Now that we have successfully annotated our genome(s) using Prokka, let’s try to do some functional annotations, i.e. gene ontology enrichment analysis. However, note that this enrichment analysis works best when one has gene expression data such as is generated using RNA-seq. For this optional tutorial we will use an online tool, [ShinyGO](http://bioinformatics.sdstate.edu/go/)
 
 1. First generate a list of genes from the one of the output files from Prokka (filename with .tsv extension).
-```
-cat Ecoli-E37364/EcE37364.tsv | cut -f4 | sort -u | sed '/^$/d' | head -n50 | tr '\n' ',' > shinygo_list1.txt
-```
+   ```
+   cat Ecoli-E37364/EcE37364.tsv | cut -f4 | sort -u | sed '/^$/d' | head -n50 | tr '\n' ',' > shinygo_list1.txt
+   ```
 
-Copy and paste the genes into the input tab on shinyGO
+   Copy and paste the genes into the input tab on shinyGO
 
-`cat shinygo_list1.txt `
+   `cat shinygo_list1.txt `
 
 2.	Click the gene tab, and check the “Detailed Description” box. 
 If any of the genes in your list are involved in previously annotated pathways and/or biological processes, these will be provided under the Description column.
@@ -120,7 +120,7 @@ If any of the genes in your list are involved in previously annotated pathways a
 
 
 
-####                    ----------------------- END -------------------------
+####   ----------------------------------------------- END ---------------------------------------------------------------------------------------------------------
 
 
 
