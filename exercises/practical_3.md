@@ -85,7 +85,7 @@ To list the putative genes:
 - Unknown protein are structures that have been experimentally shown to exist but are not characterized in protein chemical terms or cannot be linked to a known gene e.g. uncharacterized protein families.
 - Proteins of unknown functions  are experimentally documented but no known functional or structural domain is observed
 
-If --rawproduct is not set, Prokka will clean gene product names (protein names) comprising terms like possible, probable, predicted etc and name them as putative.
+If `--rawproduct` is not set, Prokka will clean gene product names (protein names) comprising terms like possible, probable, predicted etc and name them as putative.
 
 ### 9. How many protein coding genes were annotated?
 `egrep "[[:space:]]CDS[[:space:]]" Ecoli-E37364/EcE37364.tsv | egrep -c -i -v "hypothetical|putative"`
