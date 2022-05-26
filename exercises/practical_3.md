@@ -59,7 +59,7 @@ grep "contigs" Ecoli-E37364/EcE37364.txt
 cat Ecoli-E37364/EcE37364.txt		# This will printout the whole file to screen
 ```
 
-If --compliant option was used this number will represent only contigs greater than 200 bp in length. Have a look at the prokka options to understand why this is done or necessary.
+If `--compliant` option was used this number will represent only contigs greater than 200 bp in length. Have a look at the prokka options to understand why this is done or necessary.
 
 ### 6. How many hypothetical proteins were predicted?
 `grep -c -i "hypothetical protein" Ecoli-E37364/EcE37364.tsv`
