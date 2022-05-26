@@ -72,8 +72,8 @@
 **Session 3: Genome annotation**
 - [Introductory presentation]()
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%203.pdf)
-<!--- - [Hands-on exercises example commands](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/practical_3.sh) --->
 - [Hands-on exercises online version](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/practical_3.md)
+<!--- - [Hands-on exercises example commands](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/practical_3.sh) --->
 
 **Session 4: Bacteria subtyping**
 - [Introductory presentation]()
