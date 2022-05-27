@@ -85,6 +85,7 @@
 
 **Session 6: Phylogenetic analysis**
 - [Introductory presentation](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/presentations/WGS_phylogeny2022_Pimlapas_updated.pdf)
+- [Visualization presentation](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/presentations/phylogeny_visualization_2022_Pimlapas.pdf)
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Group%20project%202.pdf)
 
 **Session 7: Transmission analysis**
