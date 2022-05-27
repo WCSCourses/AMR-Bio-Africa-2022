@@ -66,11 +66,11 @@
 - [Hands-on exercises example commands](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/AC_Intro_to_sequence_data_practical_answers.pdf)
 
 **Session 2: Genome assembly**
-- [Introductory presentation]()
+- [Introductory presentation](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/presentations/Arun_Decano_SAGESA_Genome_assembly.pdf)
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%202.pdf)
 
 **Session 3: Genome annotation**
-- [Introductory presentation]()
+- [Introductory presentation](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/presentations/Bacterial_genome_annotation_sagesa.pdf)
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%203.pdf)
 - [Hands-on exercises online version](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/practical_3.md)
 <!--- - [Hands-on exercises example commands](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/practical_3.sh) --->
@@ -80,11 +80,11 @@
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%204.pdf)
 
 **Session 5: AMR detection**
-- [Introductory presentation]()
+- [Introductory presentation](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/presentations/Arun_Decano_AMRGene_Annotation.pdf)
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%205.pdf)
 
 **Session 6: Phylogenetic analysis**
-- [Introductory presentation]()
+- [Introductory presentation](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/presentations/WGS_phylogeny2022_Pimlapas_updated.pdf)
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Group%20project%202.pdf)
 
 **Session 7: Transmission analysis**
