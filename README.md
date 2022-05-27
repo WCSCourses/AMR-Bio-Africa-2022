@@ -90,5 +90,6 @@
 **Session 7: Transmission analysis**
 - [Introductory presentation]()
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%206.pdf)
+- [Use this link to navigate to the microreact instance for this tutorial](https://microreact.org/project/icGPbF_O8)
 
 **Session 8: SAGESA Network discussion**
