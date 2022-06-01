@@ -62,6 +62,7 @@
 
 **Session 1: Intro to sequence data & QC**
 - [Introductory presentation]()
+- [Practical 1 manual](/exercises/Practical 1.pdf)
 - [Hands-on exercises manual](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/Practical%201.pdf)
 - [Hands-on exercises example commands](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/exercises/AC_Intro_to_sequence_data_practical_answers.pdf)
 
