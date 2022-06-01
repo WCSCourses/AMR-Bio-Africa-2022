@@ -94,3 +94,4 @@
 - [Use this link to navigate to the microreact instance for this tutorial](https://microreact.org/project/icGPbF_O8)
 
 **Session 8: SAGESA Network discussion**
+- [Course feedback](WCSCourses/AMR-Bio-Africa-2022/blob/main/QR_code_KB2857H.png)
