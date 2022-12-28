@@ -23,31 +23,8 @@
 - Lecture 4: [Lavania Joseph](), National Institute for Communicable Diseases, South Africa
 - Lecture 5: [Michelle Lowe](), National Institute for Communicable Diseases, South Africa
 
-## Timetable
-### Overview
-- Pre-workshop:
-  - Lecture 1: Samples to Sequencing
-  - Introductions
 
-- Wednesday 25 May 2022:
-  - Session 1: Intro to sequence data & QC
-  - Lectures 2 & 3
-  - Session 2: Genome assembly
-  - Session 3: Genome annotation
-
-- Thursday 26 May 2022:
-  - Plenary lecture
-  - Session 4: Bacteria subtyping approaches
-  - Lecture 4
-  - Session 5: AMR typing
-
-- Friday 27 May 2022:
-  - Session 6: Phylogenetic analysis
-  - Lecture 5
-  - Session 7: Transmission analysis
-  - Session 8: SAGESA network discussion
-
-### Detailed timetable
+### Timetable
 
 <!--- ![plot](https://github.com/WCSCourses/AMR-Bio-Africa-2022/blob/main/images/DetailedTimetable.PNG) --->
 
